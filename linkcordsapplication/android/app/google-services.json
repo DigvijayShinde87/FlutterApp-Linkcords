@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1014261445889",
+    "project_id": "linkcords-ab444",
+    "storage_bucket": "linkcords-ab444.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014261445889:android:b017ee0730c6445a8a5700",
+        "android_client_info": {
+          "package_name": "com.example.linkcordsapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVrnwERYX-a9p95bWLrtb7mwOnoltSHsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
